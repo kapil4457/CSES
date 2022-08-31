@@ -1,0 +1,1 @@
+{"name":"Local: increasing_Array","url":"e:\\CSES2\\increasing_Array.cpp","tests":[{"id":1661915012595,"input":"5\n3 2 5 1 7","output":"5"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\CSES2\\increasing_Array.cpp","group":"local","local":true}
